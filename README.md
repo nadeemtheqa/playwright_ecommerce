@@ -3,6 +3,7 @@
 
 This repository contains a **Playwright Automation Framework** designed for UI automation testing of an eCommerce website.
 The framework is built to facilitate reliable, maintainable, and scalable automated tests using modern automation best practices.
+Drop a comment if you need the .env file to test this script :) 
 
 ---
 
